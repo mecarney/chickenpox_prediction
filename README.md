@@ -15,4 +15,4 @@ From the command line:<br />
 <img src="https://github.com/mecarney/chickenpox_prediction/blob/master/dataset.png" height="433" title="Dataset"> <img src="https://github.com/mecarney/chickenpox_prediction/blob/master/prediction.png" height="433" title="Predictions">
 
 ## Acknowledgments
-Dataset downloaded from <a href =" https://datamarket.com/data/set/22v7/monthly-reported-number-of-chickenpox-new-york-city-1931-1972#!ds=22v7&display=line">"datamarket.com"</a>
+Dataset downloaded from [datamarket.com](https://datamarket.com/data/set/22v7/monthly-reported-number-of-chickenpox-new-york-city-1931-1972#!ds=22v7&display=line)
