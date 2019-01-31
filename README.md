@@ -11,7 +11,7 @@ From the command line:<br />
 `pip install -r requirements.txt`<br />
 `jupyter notebook chickenpox_prediction.ipynb`
 
-## Examples
+## Data and Predictions
 <img src="https://github.com/mecarney/chickenpox_prediction/blob/master/dataset.png" height="433" title="Dataset"> <img src="https://github.com/mecarney/chickenpox_prediction/blob/master/prediction.png" height="433" title="Predictions">
 
 ## Acknowledgments
